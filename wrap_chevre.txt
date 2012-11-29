@@ -3,5 +3,6 @@ basilic
 tomates
 roquette
 herbes du sud
-copeau de parmesnan
+copeaux de parmesnan
 ail
+pignons de pain
